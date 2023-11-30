@@ -1,0 +1,51 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Videojuegos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        section {
+            margin-top: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la Página de Videojuegos</h1>
+    </header>
+    <section>
+        <h2>Últimas Noticias</h2>
+        <p>Aquí puedes encontrar las últimas noticias sobre videojuegos.</p>
+    </section>
+    <section>
+        <h2>Reseñas de Juegos</h2>
+        <p>Lee nuestras reseñas de los últimos juegos lanzados.</p>
+    </section>
+    <section>
+        <h2>Top 10 Juegos</h2>
+        <p>Descubre cuáles son los mejores juegos del momento.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 Página de Videojuegos</p>
+    </footer>
+</body>
+</html>
+```
